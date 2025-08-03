@@ -1,2 +1,2 @@
-# financialextractor-open-ai
-financial extractor
+# Financial-Data-Extraction-tool-in-python
+Financial Data Extraction tool in python
